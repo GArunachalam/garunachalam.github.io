@@ -1,22 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jeyamohan&#39;s Vemnurasu Word Analysis</title>
+    <title>B o o k i s h !</title>
     <link>https://garunachalam.github.io/</link>
-    <description>Recent content on Jeyamohan&#39;s Vemnurasu Word Analysis</description>
+    <description>Recent content on B o o k i s h !</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Apr 2020 15:30:13 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2020 21:25:00 -0700</lastBuildDate>
     
 	<atom:link href="https://garunachalam.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>About</title>
+      <link>https://garunachalam.github.io/about/</link>
+      <pubDate>Sun, 03 May 2020 21:25:00 -0700</pubDate>
+      
+      <guid>https://garunachalam.github.io/about/</guid>
+      <description>This site contains some of my thoughts.
+But primarily this is about analyzing Venmurasu and publishing some interesting facts about it.
+The official website for Venmurasu is here.</description>
+    </item>
+    
+    <item>
+      <title>The Inspiration</title>
+      <link>https://garunachalam.github.io/the_inspiration/</link>
+      <pubDate>Sun, 03 May 2020 10:14:28 -0700</pubDate>
+      
+      <guid>https://garunachalam.github.io/the_inspiration/</guid>
+      <description>Inspiration comes from many places. It can come when you are reading a book, a poem, an article. It can come when you are walking on the beach, enjoying the peaceful pacific sunset. It can come when you are taking a hot shower. I mean, it can come from anywhere.
+For me, it came from Nanjil Nadan.
+Specifically, from this video between 2:20 - 3:05 mark:
+
+Here, he talks about the list of words used by Shakespeare and then continues to talk about Jeyamohan, his prolific writing, and posits that if someone can categorize the words used by him it would be more than 100,000.</description>
+    </item>
+    
+    <item>
       <title>குரு வனக்கம்</title>
-      <link>https://garunachalam.github.io/posts/guruvanakkam/</link>
+      <link>https://garunachalam.github.io/guruvanakkam/</link>
       <pubDate>Sat, 25 Apr 2020 15:30:13 -0700</pubDate>
       
-      <guid>https://garunachalam.github.io/posts/guruvanakkam/</guid>
+      <guid>https://garunachalam.github.io/guruvanakkam/</guid>
       <description>நமக்கு கற்பிப்பவர் யாரக இருந்தாலும் அவர் நமக்கு குருவே. அந்த வகையில் ஜெயமோகன் என்னுடய குரு. அவரிடம் இருந்து கற்றுக்கொண்டவை / கற்றுக்கொண்டிருப்பவை ஏரளம்.
 அவருக்கு என் வணக்கம். </description>
     </item>
